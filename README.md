@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jlucas1980
 - 👀 I’m interested in biking, road trips and traveling to different countries. 
-- 🌱 I’m currently learning about ELAN, completing my MSc in data science
-- 💞️ I’m looking to collaborate on DREAM project; manipulating an AI in the American Sign Language database using ELAN and Tableau
+- 🌱 I’m currently learning about ELAN, and working on completing my MSc in data science.
+- 💞️ I’m looking to collaborate on DREAM project; manipulating an AI in the American Sign Language database using ELAN and Tableau.
 - 📫 How to reach me at deannialucas80@gmail.com
 -  
 
