@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlucas1980
 - 👀 I’m interested in biking, road trips and traveling to different countries. 
-- 🌱 I’m currently learning about ELAN, and working on completing my MSc in data science.
+- 🌱 I’m currently learning about ELAN, and working on completing my MSc in data science. I will be graduating Summer 2023.
 - 💞️ I’m currently collaborating on The DREAM project; manipulating an AI in the American Sign Language database using ELAN and Tableau. Main focus is using data gathered from ELAN to explain mouth/mothing.
 - 📫 How to reach me at dlucas14@depaul.edu
 -  
