@@ -7,6 +7,8 @@
 
 - 📫 How to reach me at dlucas14@depaul.edu
 
+**Information About My Files**
+
 -DeanniaVideo.eaf. and DeanniaVideo.pfsx were created with ELAN software for annotating.
 
 -ELANVisualizationsinTableau.pptx shows different visualizations in Tableau using data from the "biker_biker_buddy" file in   
