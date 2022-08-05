@@ -6,12 +6,7 @@
 ![image](https://user-images.githubusercontent.com/105459418/181624588-bf72d974-f4b6-4c7d-bcf9-a75892c46bf6.png)
 
 - 📫 How to reach me at dlucas14@depaul.edu
--  
 
-<!---
-jlucas1980/jlucas1980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 -DeanniaVideo.eaf. and DeanniaVideo.pfsx were created with ELAN software for annotating.
 
 -ELANVisualizationsinTableau.pptx shows different visualizations in Tableau using data from the "biker_biker_buddy" file in   
